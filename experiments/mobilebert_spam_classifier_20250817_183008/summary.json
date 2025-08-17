@@ -1,0 +1,6 @@
+{
+  "experiment_name": "mobilebert_spam_classifier",
+  "timestamp": "20250817_183008",
+  "config_file": "experiments\\mobilebert_spam_classifier_20250817_183008\\config.json",
+  "results_file": "experiments\\mobilebert_spam_classifier_20250817_183008\\results.json"
+}
